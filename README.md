@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @SommieOgu
-- 👀 I’m interested in Computer science in regards to Computer law, 3-D software design and Software fashion.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+##👋 Hi, I’m @SommieOgu or Sommie which is my preferred name
 
-<!---
-SommieOgu/SommieOgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Computer science in regards to Computer law, 3-D software design and Software fashion.
+- 🌱 I’m currently learning Machine Learning and assessing algorithm accuracy 
+- 💞️ I’m looking to collaborate on any Hack-A-Thons and other fun collabs
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I really like physics and used to be a gymnast 
