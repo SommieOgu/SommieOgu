@@ -1,4 +1,4 @@
-##👋 Hi, I’m @SommieOgu or Sommie which is my preferred name
+👋 Hi, I’m @SommieOgu or Sommie which is my preferred name
 
 - 👀 I’m interested in Computer science in regards to Computer law, 3-D software design and Software fashion.
 - 🌱 I’m currently learning Machine Learning and assessing algorithm accuracy 
